@@ -1,2 +1,2 @@
-# open-data
-Open data management and the cloud  
+# Open Data Management and the Cloud
+
